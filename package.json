@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "axios": "^0.21.0",
+    "event-stream": "3.3.6",
     "handlebars": "4.0.14",
     "lodash": "4.17.4",
     "minimist": "1.2.5",
