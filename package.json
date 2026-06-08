@@ -18,7 +18,8 @@
     "mongodb": "^3.5.9",
     "mongoose": "4.2.4",
     "ua-parser-js": "0.7.29",
-    "node-fetch": "2.6.0"
+    "node-fetch": "2.6.0",
+    "serialize-javascript": "2.1.1"
   },
   "optionalDependencies": {
     "fsevents": "1.2.10"
